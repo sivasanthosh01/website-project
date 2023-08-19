@@ -345,7 +345,7 @@
 					display:flex;
 					width:100%;
 					justify-content:space-evenly;
-					margin:10px;
+					/* margin:10px; */
 					
 			}
 			/* .about-col4{ */
@@ -851,9 +851,9 @@
 		.contact-map{
 			padding-top:10px;
 		}
-		.cont-location{
+		/* .cont-location{
 			
-		}
+		} */
 		.row-contact{
 			display:flex;
 			justify-content:space-evenly;
